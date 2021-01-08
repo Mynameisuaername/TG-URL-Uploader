@@ -15,7 +15,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mynameisuaername/URL-Uploader/tree/master)
+[![Deploy](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnews-cdn.softpedia.com%2Fimages%2Fnews2%2Fdeploy-on-heroku-buttons-lead-to-complete-pwnage-of-heroku-accounts-504736-2.jpg&f=1&nofb=1)](https://heroku.com/deploy?template=https://github.com/Mynameisuaername/URL-Uploader/tree/master)
 
 **Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
 
