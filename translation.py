@@ -6,7 +6,7 @@ This is a Telegram URL Upload Bot Which is निर्भर on YTDL For his Se
 
 /help for more details..
 
-Support Group : https://t.me/TGBotsCollection
+Join for List of Telegram Bots : InlineKeyboardButton(text, url = https://t.me/TGBotsCollection)
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
